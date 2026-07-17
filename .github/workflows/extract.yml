@@ -45,7 +45,7 @@ jobs:
           FLARESOLVERR_URL: ${{ secrets.FLARESOLVERR_URL }}
         run: |
           echo "=== Starting Schedule extraction ==="
-          python extractdlhd.py
+          python extractflare.py
           echo "=== Schedule extraction completed ==="
 
       # ===== COMMIT FINALE =====
