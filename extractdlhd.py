@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 # ==========================================
 # Configurazione
 # ==========================================
-DLHD_BASE = "https://dlhd.dad/"
+DLHD_BASE = "https://dlhd.st/"
 DLHD_247_URL = DLHD_BASE + "24-7-channels.php"
 OUTPUT_247_HTML = "247.html"
 OUTPUT_SCHEDULE_JSON = "daddyliveSchedule.json"
