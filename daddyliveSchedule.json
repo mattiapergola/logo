@@ -1,5 +1,187 @@
 {
     "Friday 17th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "23:30",
+                "event": "ONE WORLD RADIO Live from Tomorrowland 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "200"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "FREEDOM STAGE SHORTS Tomorrowland 2026",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2026 CARS Tour at North Wilkesboro Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "World of Outlaws Sprint Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "IWK 250 \u2013 Riverside International Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "2026 Midseason Championship at Autodrome Granby",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 IMCA King of the Creek IX at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Albany Saratoga Speedway Empire Super Sprints",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Williams Grove Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2026 Southern Nationals at Swainsboro Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Cage Fury Fighting Championships : CFFC 157: Morales vs. Shields",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "Lucas Oil Late Models Shelby Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "2026 MARS Late Models at Farmer City Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "00:45",
+                "event": "2026 Skunk Cup at Magic Valley Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "2026 KKM Challenge Series at Coles County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "2026 IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "2026 NARC Howard Kaeding Classic at Watsonville Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "2026 Tyler and Chuck Wolf Memorial at Silver Dollar Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "19:30",
@@ -1020,6 +1202,16 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4125"
+                    }
+                ]
+            },
+            {
+                "time": "19:45",
+                "event": "\u26bd Club Friendly : Hearts vs Rayo Vallecano",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6045"
                     }
                 ]
             },
