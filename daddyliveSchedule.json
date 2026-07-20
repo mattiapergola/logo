@@ -654,6 +654,26 @@
                 ]
             },
             {
+                "time": "19:45",
+                "event": "\u26bd Club Friendly : Redbridge vs Welwyn Garden",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6010"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\u26bd Club Friendly : SA Bulo Bulo vs Academia del Balompie",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6012"
+                    }
+                ]
+            },
+            {
                 "time": "20:15",
                 "event": "\u26bd Club Friendly : \ud83c\uddf5\ud83c\uddf9 Sporting CP vs \ud83c\uddeb\ud83c\uddf7 Strasbourg",
                 "channels": [
@@ -680,6 +700,30 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4125"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd Club Friendly : Nacional Potosi vs Real Oruro",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6013"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\u26bd Ecuador Liga Pro Serie A, Primera Etapa : Mushuc Runa vs Orense",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6011"
                     }
                 ]
             },
