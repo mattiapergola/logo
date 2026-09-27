@@ -1,5 +1,93 @@
 {
     "Sunday 27th Sep 2026 - Schedule Time UK GMT": {
+        "2026 MTV Video Music Awards": [
+            {
+                "time": "01:00",
+                "event": "\ud83c\udfa4 2026 MTV Video Music Awards (MTV VMA) : 52",
+                "channels": [
+                    {
+                        "channel_name": "CBSNY USA",
+                        "channel_id": "767"
+                    },
+                    {
+                        "channel_name": "MTV Feed",
+                        "channel_id": "5000"
+                    }
+                ]
+            }
+        ],
+        "20th Asian Games Aichi-Nagoya 2026": [
+            {
+                "time": "15:59",
+                "event": "Asian Games Aichi-Nagoya Stream 1",
+                "channels": [
+                    {
+                        "channel_name": "Astro 1  Astro 1",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "mewatch 1",
+                        "channel_id": "5006"
+                    }
+                ]
+            },
+            {
+                "time": "15:59",
+                "event": "Asian Games Aichi-Nagoya Stream 2",
+                "channels": [
+                    {
+                        "channel_name": "Astro  2 Astro 2",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "mewatch 2",
+                        "channel_id": "5007"
+                    }
+                ]
+            },
+            {
+                "time": "15:59",
+                "event": "Asian Games Aichi-Nagoya Stream 3",
+                "channels": [
+                    {
+                        "channel_name": "Astro  3 Astro 3",
+                        "channel_id": "5003"
+                    },
+                    {
+                        "channel_name": "mewatch 3",
+                        "channel_id": "5008"
+                    }
+                ]
+            },
+            {
+                "time": "15:59",
+                "event": "Asian Games Aichi-Nagoya Stream 4",
+                "channels": [
+                    {
+                        "channel_name": "Astro  4 Astro 4",
+                        "channel_id": "5004"
+                    },
+                    {
+                        "channel_name": "mewatch 4",
+                        "channel_id": "5009"
+                    }
+                ]
+            },
+            {
+                "time": "15:59",
+                "event": "Asian Games Aichi-Nagoya Stream 5",
+                "channels": [
+                    {
+                        "channel_name": "Astro  5 Astro 5",
+                        "channel_id": "5005"
+                    },
+                    {
+                        "channel_name": "mewatch 5",
+                        "channel_id": "5010"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "19:30",
@@ -251,6 +339,16 @@
             },
             {
                 "time": "11:30",
+                "event": "\u26bd \ud83c\uddee\ud83c\uddf9 Italy Women Serie A : Ternana Women \ud83c\uddee\ud83c\uddf9 vs Como Women \ud83c\uddee\ud83c\uddf9",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    }
+                ]
+            },
+            {
+                "time": "11:30",
                 "event": "\u26bd \ud83c\uddee\ud83c\uddf9 Italy - Serie C : Barletta \ud83c\uddee\ud83c\uddf9 vs Potenza Calcio \ud83c\uddee\ud83c\uddf9",
                 "channels": [
                     {
@@ -290,6 +388,10 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     }
                 ]
             },
@@ -300,6 +402,60 @@
                     {
                         "channel_name": "Sky Sports Football",
                         "channel_id": "35"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Rosengard W \ud83c\uddf8\ud83c\uddea vs Pitea W \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : IF Brommapojkarna W \ud83c\uddf8\ud83c\uddea vs Malmo FF W \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Trelleborgs FF \ud83c\uddf8\ud83c\uddea vs \u00c4ngelholms FF \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Eskilsminne IF \ud83c\uddf8\ud83c\uddea vs AFC Malm\u00f6 \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Arlanda \ud83c\uddf8\ud83c\uddea vs Enk\u00f6pings SK \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     }
                 ]
             },
@@ -328,12 +484,36 @@
                 ]
             },
             {
+                "time": "12:35",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddf3 Friendly Match : China \ud83c\udde8\ud83c\uddf3 vs New Zealand \ud83c\uddf3\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 COSAFA Champions League : South Africa U20 \ud83c\uddff\ud83c\udde6 vs Mozambique U20 \ud83c\uddf2\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
+                    }
+                ]
+            },
+            {
                 "time": "13:00",
                 "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f England - Women's Super League : Manchester United \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f vs West Ham United \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     },
                     {
                         "channel_name": "Sky Sport 9 NZ",
@@ -376,6 +556,10 @@
                         "channel_id": "539"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA 3",
                         "channel_id": "93"
                     }
@@ -392,6 +576,10 @@
                     {
                         "channel_name": "Match TV Russia",
                         "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -461,6 +649,16 @@
             },
             {
                 "time": "14:00",
+                "event": "\u26bd \ud83c\uddff\ud83c\udde6 South Africa Diski Challenge : Orlando Pirates U23 \ud83c\uddff\ud83c\udde6 vs Kaizer Chiefs U23 \ud83c\uddff\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
                 "event": "\u26bd UEFA Nations League : Lithuania \ud83c\uddf1\ud83c\uddf9 vs Azerbaijan \ud83c\udde6\ud83c\uddff",
                 "channels": [
                     {
@@ -470,6 +668,10 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     },
                     {
                         "channel_name": "DAZN1 DE",
@@ -566,8 +768,22 @@
                         "channel_id": "587"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
+                    },
+                    {
                         "channel_name": "Sport 1 Israel",
                         "channel_id": "140"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\udff4 English Women Super League : Birmingham W \ud83c\udff4 vs Crystal Palace W \ud83c\udff4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     }
                 ]
             },
@@ -578,6 +794,10 @@
                     {
                         "channel_name": "CBS Sports Golazo",
                         "channel_id": "910"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     },
                     {
                         "channel_name": "Sky Sports Main Event UK",
@@ -612,6 +832,10 @@
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     }
                 ]
             },
@@ -655,11 +879,25 @@
             },
             {
                 "time": "15:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddfe Uruguay Liga AUF : Central Espa\u00f1ol \ud83c\uddfa\ud83c\uddfe vs Liverpool Montevideo \ud83c\uddfa\ud83c\uddfe",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil - Serie B : Crici\u00fama \ud83c\udde7\ud83c\uddf7 vs Ava\u00ed \ud83c\udde7\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     }
                 ]
             },
@@ -670,6 +908,40 @@
                     {
                         "channel_name": "DAZN1 Spain",
                         "channel_id": "445"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Karlstad \ud83c\uddf8\ud83c\uddea vs Karlbergs \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Gefle \ud83c\uddf8\ud83c\uddea vs Vasalund \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Division 1 : Assyriska FF \ud83c\uddf8\ud83c\uddea vs Pitea \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -680,6 +952,10 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "539"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     },
                     {
                         "channel_name": "ESPN Deportes",
@@ -5834,6 +6110,10 @@
                     {
                         "channel_name": "TV4 Sportkanalen Sweden",
                         "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     }
                 ]
             },
@@ -5844,6 +6124,10 @@
                     {
                         "channel_name": "TV4 Sport Live 2 Sweden",
                         "channel_id": "704"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     }
                 ]
             },
@@ -5854,6 +6138,10 @@
                     {
                         "channel_name": "TV4 Sport Live 1 Sweden",
                         "channel_id": "703"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     }
                 ]
             },
@@ -5864,6 +6152,10 @@
                     {
                         "channel_name": "TV4 Hockey Sweden",
                         "channel_id": "700"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
@@ -6122,6 +6414,10 @@
                     {
                         "channel_name": "Sky Sport 6 NZ",
                         "channel_id": "593"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
@@ -6158,6 +6454,10 @@
                     {
                         "channel_name": "ITV 1 UK",
                         "channel_id": "350"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     },
                     {
                         "channel_name": "Sky Sport 6 NZ",
