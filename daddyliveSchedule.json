@@ -1,6 +1,22 @@
 {
     "Friday 02nd Oct 2026 - Schedule Time UK GMT": {
-        "PPV Evemnts": [
+        "Austin City Limits Music Festival \ud83c\udfb5": [
+            {
+                "time": "21:35",
+                "event": "\ud83c\udfb5 Austin City Limits Music Festival at Zilker Park, Austin, TX",
+                "channels": [
+                    {
+                        "channel_name": "Disney+",
+                        "channel_id": "938"
+                    },
+                    {
+                        "channel_name": "Disney+",
+                        "channel_id": "939"
+                    }
+                ]
+            }
+        ],
+        "PPV Events": [
             {
                 "time": "14:00",
                 "event": "\ud83c\udfc1 2026 MotoPlayGround Race at Ponca City",
@@ -1280,6 +1296,10 @@
                         "channel_id": "77"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
+                    },
+                    {
                         "channel_name": "M4 Sports Hungary",
                         "channel_id": "265"
                     },
@@ -1328,6 +1348,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     },
                     {
                         "channel_name": "BHT 1 Bosnia",
@@ -1412,6 +1436,10 @@
                         "channel_id": "105"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
                     },
@@ -1482,6 +1510,10 @@
                         "channel_id": "106"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    },
+                    {
                         "channel_name": "BBC Two UK",
                         "channel_id": "357"
                     },
@@ -1522,6 +1554,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "107"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
                     },
                     {
                         "channel_name": "atv Turkey",
@@ -1636,6 +1672,10 @@
                     {
                         "channel_name": "DAZN CA",
                         "channel_id": "108"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     },
                     {
                         "channel_name": "TF1 France",
@@ -1792,6 +1832,10 @@
                         "channel_id": "109"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "RTVS Sport Slovakia",
                         "channel_id": "12"
                     },
@@ -1843,11 +1887,35 @@
             },
             {
                 "time": "20:00",
+                "event": "\u26bd CONCACAF Nations League : Saint Lucia vs Guadeloupe",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\u26bd Bolivia Copa : SA Bulo Bulo vs Academia del Balompie",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
                 "event": "\u26bd Netherlands - Eerste Divisie : Helmond Sport \ud83c\uddf3\ud83c\uddf1 vs Heracles \ud83c\uddf3\ud83c\uddf1",
                 "channels": [
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     }
                 ]
             },
@@ -1872,6 +1940,10 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "Fox Sports 2 USA",
@@ -1902,6 +1974,10 @@
                         "channel_id": "387"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    },
+                    {
                         "channel_name": "FOX Deportes",
                         "channel_id": "643"
                     },
@@ -1922,6 +1998,20 @@
                     {
                         "channel_name": "Premiere 2 BR",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd Colombia Primera B : Atl\u00e9tico FC vs Real Cundinamarca",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             },
@@ -4912,7 +5002,7 @@
         ],
         "Snooker \ud83c\udfb1": [
             {
-                "time": "18:51",
+                "time": "22:39",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open --- Table 1",
                 "channels": [
                     {
@@ -4922,7 +5012,7 @@
                 ]
             },
             {
-                "time": "18:51",
+                "time": "22:39",
                 "event": "\ud83c\udfb1 Snooker Shenzhen Open --- Table 2",
                 "channels": [
                     {
@@ -6370,6 +6460,10 @@
                     {
                         "channel_name": "NHL Gamecenter",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
