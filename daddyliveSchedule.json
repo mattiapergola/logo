@@ -1,5 +1,57 @@
 {
     "Friday 16th Oct 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:45",
+                "event": "\ud83c\udfc1 Super DIRTcar Series Brockville",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "\ud83c\udfc1 World of Outlaws Sprint Cars Lincoln",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfc1 High Limit Racing Texas",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83e\udd4a BrandRisk 016",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "\ud83e\udd4a Budo Sento Championship 37",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "07:00",
@@ -1973,11 +2025,35 @@
             },
             {
                 "time": "23:00",
+                "event": "\u26bd Colombia Primera B : Boca Juniors vs Atl\u00e9tico FC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\u26bd Uruguay Liga AUF : CA Cerro vs Cerro Largo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
                 "event": "\u26bd Argentina - Primera Divisi\u00f3n : Defensa y Justicia \ud83c\udde6\ud83c\uddf7 vs Instituto \ud83c\udde6\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -1988,6 +2064,26 @@
                     {
                         "channel_name": "SporTV BR",
                         "channel_id": "78"
+                    }
+                ]
+            },
+            {
+                "time": "23:20",
+                "event": "\u26bd Paraguay Primera Divisi\u00f3n : Cerro Porte\u00f1o vs San Lorenzo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Brazil Serie B : Ponte Preta vs Atl\u00e9tico GO",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     }
                 ]
             },
@@ -3990,6 +4086,10 @@
                     {
                         "channel_name": "Arena 4 Premium Serbia",
                         "channel_id": "20"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5005"
                     }
                 ]
             },
@@ -4442,6 +4542,14 @@
                     {
                         "channel_name": "Sportsnet One",
                         "channel_id": "411"
+                    },
+                    {
+                        "channel_name": "Event Stream [Home Feed]",
+                        "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Event Stream [Away Feed]",
+                        "channel_id": "5011"
                     }
                 ]
             },
@@ -4452,6 +4560,14 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "4"
+                    },
+                    {
+                        "channel_name": "Event Stream [Home Feed]",
+                        "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Event Stream [Away Feed]",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -4462,6 +4578,14 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "5"
+                    },
+                    {
+                        "channel_name": "Event Stream [Home Feed]",
+                        "channel_id": "5007"
+                    },
+                    {
+                        "channel_name": "Event Stream [Away Feed]",
+                        "channel_id": "5008"
                     }
                 ]
             },
@@ -4492,6 +4616,10 @@
                     {
                         "channel_name": "beIN SPORTS MENA 8",
                         "channel_id": "98"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5009"
                     }
                 ]
             },
@@ -4516,6 +4644,10 @@
                     {
                         "channel_name": "NBA League Pass",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -4554,6 +4686,14 @@
                     {
                         "channel_name": "NBC Sports California",
                         "channel_id": "755"
+                    },
+                    {
+                        "channel_name": "Event Stream [Home Feed]",
+                        "channel_id": "5015"
+                    },
+                    {
+                        "channel_name": "Event Stream [Away Feed]",
+                        "channel_id": "5016"
                     }
                 ]
             },
