@@ -1,5 +1,17 @@
 {
     "Wednesday 04th Nov 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "20:15",
+                "event": "\ud83c\udfc1 The Dirt Track at Charlotte Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision PPV",
+                        "channel_id": "26"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "11:00",
@@ -560,6 +572,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "172"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
                     }
                 ]
             },
@@ -570,6 +586,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "173"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
                     }
                 ]
             }
@@ -582,6 +602,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "174"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
                     }
                 ]
             }
@@ -862,6 +886,10 @@
                         "channel_id": "466"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA 8",
                         "channel_id": "98"
                     }
@@ -874,6 +902,10 @@
                     {
                         "channel_name": "Nova Sport Bulgaria",
                         "channel_id": "468"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     },
                     {
                         "channel_name": "beIN Sports MENA 3",
@@ -890,8 +922,32 @@
                         "channel_id": "95"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
+                    },
+                    {
                         "channel_name": "Sportklub 6 Croatia",
                         "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Gulf Club Champions League : Al Ettifaq vs Ajman",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Slovakia Cup : Banska Bystrica vs Trencin",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -902,6 +958,10 @@
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "1027"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     }
                 ]
             },
@@ -944,6 +1004,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "157"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     },
                     {
                         "channel_name": "TNT Sports 1 UK",
@@ -1092,6 +1156,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4109"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5011"
                     }
                 ]
             },
@@ -1102,6 +1170,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "158"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     },
                     {
                         "channel_name": "TNT Sports 3 UK",
@@ -1254,6 +1326,10 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "4113"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5012"
                     }
                 ]
             },
@@ -1330,6 +1406,10 @@
                     {
                         "channel_name": "DAZN Belgium",
                         "channel_id": "175"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     }
                 ]
             },
@@ -1340,6 +1420,10 @@
                     {
                         "channel_name": "DAZN Belgium",
                         "channel_id": "176"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
                     }
                 ]
             },
@@ -1350,6 +1434,10 @@
                     {
                         "channel_name": "DAZN Pro League 1 Belgium",
                         "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -1360,6 +1448,10 @@
                     {
                         "channel_name": "Sky Sports Football UK",
                         "channel_id": "35"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
                     },
                     {
                         "channel_name": "Sky Sports Main Event UK",
@@ -1400,6 +1492,10 @@
                         "channel_id": "156"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
+                    },
+                    {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "559"
                     },
@@ -1431,6 +1527,20 @@
             },
             {
                 "time": "20:00",
+                "event": "\u26bd The Golazo Show",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Golazo",
+                        "channel_id": "910"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5014"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
                 "event": "\u26bd UEFA Champions League Goals Show Xtra",
                 "channels": [
                     {
@@ -1446,6 +1556,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "159"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     },
                     {
                         "channel_name": "TNT Sports 4 UK",
@@ -1558,6 +1672,10 @@
                         "channel_id": "160"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
+                    },
+                    {
                         "channel_name": "TNT Sports 5 UK",
                         "channel_id": "614"
                     },
@@ -1660,6 +1778,10 @@
                         "channel_id": "161"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
+                    },
+                    {
                         "channel_name": "TNT Sports 6 UK",
                         "channel_id": "615"
                     },
@@ -1730,6 +1852,10 @@
                         "channel_id": "162"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    },
+                    {
                         "channel_name": "TNT Sports 7 UK",
                         "channel_id": "616"
                     },
@@ -1794,6 +1920,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "163"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -1934,6 +2064,10 @@
                         "channel_id": "164"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
+                    },
+                    {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
                     },
@@ -2056,6 +2190,10 @@
                         "channel_id": "165"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
                         "channel_name": "TNT Sports 8 UK",
                         "channel_id": "617"
                     },
@@ -2086,6 +2224,16 @@
                     {
                         "channel_name": "beIN Sports MENA Xtra 1",
                         "channel_id": "100"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\u26bd Morocco Botola Pro : FAR Rabat vs Raja Casablanca",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1231"
                     }
                 ]
             },
@@ -2964,10 +3112,6 @@
                         "channel_id": "40"
                     },
                     {
-                        "channel_name": "Event SD Stream",
-                        "channel_id": "1300"
-                    },
-                    {
                         "channel_name": "Sky Sports+",
                         "channel_id": "36"
                     },
@@ -3553,6 +3697,24 @@
             }
         ],
         "Tennis \ud83c\udfbe WTA - Singles: Chennai (India)": [
+            {
+                "time": "09:30",
+                "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddf7\ud83c\uddfa Oksana Selekhmeteva vs \ud83c\uddf7\ud83c\uddfa Polina Kudermetova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1098"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1658"
+                    }
+                ]
+            },
             {
                 "time": "11:00",
                 "event": "\ud83c\udfbe WTA - Singles: \ud83c\uddee\ud83c\udde9 Janice Tjen vs \ud83c\uddf3\ud83c\uddff Joanna Garland",
@@ -4238,6 +4400,10 @@
                         "channel_id": "128"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    },
+                    {
                         "channel_name": "Arena Sport 1 Serbia",
                         "channel_id": "429"
                     },
@@ -4260,12 +4426,26 @@
                         "channel_id": "1021"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "Cosmote Sport 4 Greece",
                         "channel_id": "625"
                     },
                     {
                         "channel_name": "Sportklub 9 Croatia",
                         "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83c\udfc0 Gulf Club Champions League : Erbil vs Kazma SC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
@@ -4456,6 +4636,10 @@
                         "channel_id": "454"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
+                    },
+                    {
                         "channel_name": "Arena Sport 4 Serbia",
                         "channel_id": "581"
                     },
@@ -4524,6 +4708,10 @@
                     {
                         "channel_name": "Magenta Sport 304",
                         "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
                     },
                     {
                         "channel_name": "M+ Baloncesto Spain",
