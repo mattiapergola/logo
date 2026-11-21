@@ -1,5 +1,105 @@
 {
     "Saturday 21st Nov 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "19:00",
+                "event": "\ud83c\udfc1 Georgia State Race Night One : Lavonia Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "1132"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "\ud83e\udd4a WOW 34 : Valencia",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "1133"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "\ud83c\udfc1 2026 USAC Chase Johnson Classic : Merced Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 2026 Snowball Derby Preview : 5 Flags Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5032"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83e\udd4a Top Level Pro 25 : Thanksgiving Throwdown",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "30"
+                    }
+                ]
+            },
+            {
+                "time": "22:35",
+                "event": "\ud83e\udd3c WES : Pro Sumo - New Era V",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\ud83c\udfc1 Southern Thunder Super Dirt Series Championship",
+                "channels": [
+                    {
+                        "channel_name": "DirtVision",
+                        "channel_id": "20"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "\ud83c\udfc1 USAC Southwest Sprints at Central Arizona Raceway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing PPV",
+                        "channel_id": "5033"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83c\udfc1 Bobby Martin Memorial Flip Flop 50 Night Two : Riverside International Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    }
+                ]
+            }
+        ],
         "Upcoming Events": [
             {
                 "time": "12:30",
@@ -150,6 +250,48 @@
                 ]
             }
         ],
+        "Scottish Championship \u26bd": [
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Championship : Queen's Park \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f vs Livingston \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1291"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Championship : Dunfermline Athletic \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f vs Greenock Morton \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1292"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Championship : Arbroath \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f vs Stenhousemuir \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1293"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f Scottish Championship : Raith Rovers \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f vs Partick Thistle \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1294"
+                    }
+                ]
+            }
+        ],
         "England - Championship \u26bd": [
             {
                 "time": "12:30",
@@ -210,6 +352,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1203"
                     }
                 ]
             },
@@ -224,6 +370,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1202"
                     }
                 ]
             },
@@ -238,6 +388,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1201"
                     }
                 ]
             },
@@ -252,6 +406,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3034"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1236"
                     }
                 ]
             },
@@ -266,6 +424,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3035"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1235"
                     }
                 ]
             },
@@ -276,6 +438,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "172"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1234"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -320,6 +486,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "173"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1280"
                     }
                 ]
             },
@@ -330,6 +500,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "174"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1279"
                     }
                 ]
             },
@@ -340,6 +514,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "175"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1278"
                     }
                 ]
             },
@@ -350,6 +528,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "176"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1277"
                     }
                 ]
             },
@@ -360,6 +542,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "177"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1276"
                     }
                 ]
             },
@@ -370,6 +556,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "178"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1275"
                     }
                 ]
             },
@@ -380,6 +570,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "179"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1274"
                     }
                 ]
             },
@@ -390,6 +584,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "180"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1273"
                     }
                 ]
             },
@@ -400,6 +598,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "181"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1204"
                     }
                 ]
             }
@@ -440,6 +642,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "182"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1290"
                     }
                 ]
             },
@@ -450,6 +656,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "183"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1289"
                     }
                 ]
             },
@@ -460,6 +670,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "184"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1288"
                     }
                 ]
             },
@@ -470,6 +684,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "185"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1287"
                     }
                 ]
             },
@@ -480,6 +698,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "186"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1286"
                     }
                 ]
             },
@@ -490,6 +712,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "187"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1285"
                     }
                 ]
             },
@@ -500,6 +726,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "188"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1284"
                     }
                 ]
             },
@@ -510,6 +740,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "189"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1283"
                     }
                 ]
             },
@@ -530,6 +764,10 @@
                     {
                         "channel_name": "Sky Sports+",
                         "channel_id": "191"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1281"
                     }
                 ]
             }
@@ -542,6 +780,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "192"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1231"
                     }
                 ]
             },
@@ -552,6 +794,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "193"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1230"
                     }
                 ]
             },
@@ -562,6 +808,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "194"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1229"
                     }
                 ]
             },
@@ -572,6 +822,10 @@
                     {
                         "channel_name": "SPFL Feed",
                         "channel_id": "195"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1228"
                     }
                 ]
             }
@@ -584,6 +838,10 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1249"
                     }
                 ]
             },
@@ -1656,6 +1914,10 @@
                         "channel_id": "116"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1245"
+                    },
+                    {
                         "channel_name": "Arena Sport 4 Croatia",
                         "channel_id": "580"
                     },
@@ -1672,6 +1934,20 @@
                     {
                         "channel_name": "Sport 1 Ukraine",
                         "channel_id": "200"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1239"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 Denmark Division 1 : Vendsyssel \ud83c\udde9\ud83c\uddf0 vs Hvidovre IF \ud83c\udde9\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1246"
                     }
                 ]
             },
@@ -1682,6 +1958,10 @@
                     {
                         "channel_name": "LALIGA TV Hypermotion",
                         "channel_id": "539"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1255"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -1786,6 +2066,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3092"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1251"
                     }
                 ]
             },
@@ -1796,6 +2080,10 @@
                     {
                         "channel_name": "beIN Sports 1 Turkey",
                         "channel_id": "62"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1250"
                     },
                     {
                         "channel_name": "beIN SPORTS USA",
@@ -1858,6 +2146,10 @@
                         "channel_id": "17"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1244"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "3098"
                     }
@@ -1872,6 +2164,10 @@
                         "channel_id": "18"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1243"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "3100"
                     }
@@ -1884,6 +2180,10 @@
                     {
                         "channel_name": "Magenta Sport 305",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1242"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -1920,6 +2220,10 @@
                     {
                         "channel_name": "WDR DE",
                         "channel_id": "734"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1240"
                     }
                 ]
             },
@@ -1930,6 +2234,20 @@
                     {
                         "channel_name": "Magenta Sport 308",
                         "channel_id": "22"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1237"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf2\ud83c\uddfe Malaysia Super League : Kelantan Red Warrior \ud83c\uddf2\ud83c\uddfe vs Sabah \ud83c\uddf2\ud83c\uddfe",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1238"
                     }
                 ]
             },
@@ -1950,6 +2268,20 @@
                     {
                         "channel_name": "CBC Sport Azerbaijan",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1247"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\ud83c\udfc0 \ud83c\uddec\ud83c\uddf7 Greece Basketball League : Iraklis \ud83c\uddec\ud83c\uddf7 vs AEK Athens \ud83c\uddec\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1254"
                     }
                 ]
             },
@@ -1982,6 +2314,10 @@
                         "channel_id": "400"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1248"
+                    },
+                    {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
                     }
@@ -1994,6 +2330,10 @@
                     {
                         "channel_name": "Arena 2 Premium Serbia",
                         "channel_id": "135"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1256"
                     }
                 ]
             },
@@ -2004,6 +2344,10 @@
                     {
                         "channel_name": "TRT Spor Turkey",
                         "channel_id": "889"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1252"
                     }
                 ]
             },
@@ -2018,12 +2362,36 @@
                 ]
             },
             {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\uddf9\ud83c\uddff Tanzania Ligi Kuu Bara : Pamba \ud83c\uddf9\ud83c\uddff vs Coastal Union \ud83c\uddf9\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1249"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "\u26bd \ud83c\udf0d World Cup U17 : Tanzania U17 \ud83c\uddf9\ud83c\uddff vs Costa Rica U17 \ud83c\udde8\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1253"
+                    }
+                ]
+            },
+            {
                 "time": "13:30",
                 "event": "\u26bd South Africa - League Cup : Stellenbosch \ud83c\uddff\ud83c\udde6 vs Orlando Pirates \ud83c\uddff\ud83c\udde6",
                 "channels": [
                     {
                         "channel_name": "SuperSport PSL",
                         "channel_id": "413"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     }
                 ]
             },
@@ -2176,6 +2544,10 @@
                         "channel_id": "259"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    },
+                    {
                         "channel_name": "beIN SPORTS XTRA",
                         "channel_id": "100"
                     },
@@ -2196,6 +2568,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3070"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1258"
                     }
                 ]
             },
@@ -2220,6 +2596,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3041"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1257"
                     }
                 ]
             },
@@ -2234,6 +2614,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3042"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1222"
                     }
                 ]
             },
@@ -2248,6 +2632,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3043"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
                     }
                 ]
             },
@@ -2258,6 +2646,10 @@
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "1027"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     },
                     {
                         "channel_name": "Polsat Sport Extra 4 Poland",
@@ -2276,6 +2668,10 @@
                     {
                         "channel_name": "SONY TEN 2 HD",
                         "channel_id": "886"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     }
                 ]
             },
@@ -2296,6 +2692,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
                     }
                 ]
             },
@@ -2306,6 +2706,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
@@ -2316,6 +2720,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
                     }
                 ]
             },
@@ -2326,6 +2734,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
                     }
                 ]
             },
@@ -2336,6 +2748,10 @@
                     {
                         "channel_name": "DAZN Italia",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -2346,6 +2762,10 @@
                     {
                         "channel_name": "Cytavision Sports 2",
                         "channel_id": "912"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     }
                 ]
             },
@@ -2356,6 +2776,10 @@
                     {
                         "channel_name": "Arena Sport 10 Serbia",
                         "channel_id": "945"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1259"
                     }
                 ]
             },
@@ -2366,6 +2790,10 @@
                     {
                         "channel_name": "SportKlub 1 Slovenia",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1260"
                     }
                 ]
             },
@@ -2376,6 +2804,10 @@
                     {
                         "channel_name": "TV4 Fotball",
                         "channel_id": "747"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     },
                     {
                         "channel_name": "Backup Stream",
@@ -2396,12 +2828,26 @@
                         "channel_id": "703"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
+                    },
+                    {
                         "channel_name": "Backup Stream",
                         "channel_id": "2015"
                     },
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3064"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\udde9\ud83c\uddf0 Denmark Division 1 : Esbjerg \ud83c\udde9\ud83c\uddf0 vs AB Copenhagen \ud83c\udde9\ud83c\uddf0",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
                     }
                 ]
             },
@@ -2422,6 +2868,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "108"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
                     },
                     {
                         "channel_name": "DAZN ZONA 2 IT",
@@ -2484,6 +2934,10 @@
                     {
                         "channel_name": "DAZN ZONA 1 IT",
                         "channel_id": "877"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     },
                     {
                         "channel_name": "DAZN IT",
@@ -2624,6 +3078,10 @@
                         "channel_id": "948"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1268"
+                    },
+                    {
                         "channel_name": "DAZN CA",
                         "channel_id": "225"
                     },
@@ -2660,6 +3118,10 @@
                     {
                         "channel_name": "Sky Sport Bundesliga 1",
                         "channel_id": "558"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1269"
                     },
                     {
                         "channel_name": "DAZN CA",
@@ -2736,6 +3198,10 @@
                         "channel_id": "949"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1267"
+                    },
+                    {
                         "channel_name": "DAZN CA",
                         "channel_id": "227"
                     },
@@ -2774,6 +3240,10 @@
                         "channel_id": "946"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1266"
+                    },
+                    {
                         "channel_name": "DAZN CA",
                         "channel_id": "228"
                     },
@@ -2802,6 +3272,10 @@
                     {
                         "channel_name": "Sky Sport Bundesliga 3",
                         "channel_id": "947"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1265"
                     },
                     {
                         "channel_name": "DAZN CA",
@@ -2841,11 +3315,25 @@
             },
             {
                 "time": "14:30",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Superettan : Lunds BK \ud83c\uddf8\ud83c\uddea vs Norrby IF \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1270"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
                 "event": "\u26bd Russian Premier League : Rubin Kazan' \ud83c\uddf7\ud83c\uddfa vs Zenit \ud83c\uddf7\ud83c\uddfa",
                 "channels": [
                     {
                         "channel_name": "Match Premier Russia",
                         "channel_id": "573"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1264"
                     }
                 ]
             },
@@ -2904,6 +3392,10 @@
                     {
                         "channel_name": "MagentaSport 3 Greece",
                         "channel_id": "624"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1296"
                     }
                 ]
             },
@@ -2924,6 +3416,10 @@
                     {
                         "channel_name": "TV 2 Sport Norway",
                         "channel_id": "812"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1297"
                     }
                 ]
             },
@@ -2990,6 +3486,10 @@
                         "channel_id": "24"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1226"
+                    },
+                    {
                         "channel_name": "Sky Sport 9 NZ",
                         "channel_id": "596"
                     },
@@ -3044,6 +3544,10 @@
                         "channel_id": "252"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1227"
+                    },
+                    {
                         "channel_name": "Hub Premier 4",
                         "channel_id": "25"
                     },
@@ -3096,6 +3600,10 @@
                     {
                         "channel_name": "Hub Premier 6",
                         "channel_id": "26"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1225"
                     },
                     {
                         "channel_name": "beIN Sports 3 Turkey",
@@ -3212,6 +3720,10 @@
                         "channel_id": "27"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1224"
+                    },
+                    {
                         "channel_name": "Sky Sport 7 NZ",
                         "channel_id": "594"
                     },
@@ -3256,6 +3768,10 @@
                     {
                         "channel_name": "Hub Premier 2",
                         "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1223"
                     },
                     {
                         "channel_name": "USA Network",
@@ -3348,6 +3864,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "3049"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1295"
                     }
                 ]
             },
@@ -3355,6 +3875,14 @@
                 "time": "15:00",
                 "event": "\u26bd England - Championship : West Ham United \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f vs Preston North End \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
                 "channels": [
+                    {
+                        "channel_name": "Sky Sport+",
+                        "channel_id": "255"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1233"
+                    },
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
@@ -3369,6 +3897,14 @@
                 "time": "15:00",
                 "event": "\u26bd England - Championship : Wolverhampton Wanderers \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f vs Charlton Athletic \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
                 "channels": [
+                    {
+                        "channel_name": "Sky Sport+",
+                        "channel_id": "256"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1232"
+                    },
                     {
                         "channel_name": "Sport TV+ Portugal",
                         "channel_id": "30"
@@ -3632,6 +4168,10 @@
                     {
                         "channel_name": "Sky Sport Austria",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1238"
                     }
                 ]
             },
@@ -3642,6 +4182,10 @@
                     {
                         "channel_name": "Sky Sport Austria",
                         "channel_id": "19"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1237"
                     }
                 ]
             },
@@ -3672,6 +4216,10 @@
                     {
                         "channel_name": "Arena Sport 10 Serbia",
                         "channel_id": "945"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1239"
                     }
                 ]
             },
@@ -3706,6 +4254,10 @@
                     {
                         "channel_name": "beIN Sports 1 Turkey",
                         "channel_id": "62"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1236"
                     },
                     {
                         "channel_name": "Sport TV5 Portugal",
@@ -3746,6 +4298,10 @@
                         "channel_id": "160"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1206"
+                    },
+                    {
                         "channel_name": "5 Live Israel",
                         "channel_id": "146"
                     }
@@ -3762,6 +4318,10 @@
                     {
                         "channel_name": "beIN SPORTS USA",
                         "channel_id": "425"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1205"
                     },
                     {
                         "channel_name": "beIN SPORTS en Espa\u00f1ol",
@@ -3818,6 +4378,10 @@
                         "channel_id": "259"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
+                    },
+                    {
                         "channel_name": "beIN SPORTS XTRA",
                         "channel_id": "100"
                     }
@@ -3830,6 +4394,10 @@
                     {
                         "channel_name": "TV4 Sportkanalen",
                         "channel_id": "707"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1207"
                     }
                 ]
             },
@@ -3840,6 +4408,10 @@
                     {
                         "channel_name": "SportKlub 1 Slovenia",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1209"
                     }
                 ]
             },
@@ -3910,6 +4482,10 @@
                     {
                         "channel_name": "Match Premier Russia",
                         "channel_id": "573"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1212"
                     },
                     {
                         "channel_name": "Arena Sport 6 Serbia",
@@ -4152,6 +4728,10 @@
                         "channel_id": "9"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1213"
+                    },
+                    {
                         "channel_name": "USA Network",
                         "channel_id": "343"
                     },
@@ -4270,6 +4850,10 @@
                         "channel_id": "558"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1214"
+                    },
+                    {
                         "channel_name": "DAZN CA",
                         "channel_id": "211"
                     },
@@ -4352,6 +4936,10 @@
                         "channel_id": "200"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    },
+                    {
                         "channel_name": "Arena Sport 3 Serbia",
                         "channel_id": "431"
                     },
@@ -4368,6 +4956,10 @@
                     {
                         "channel_name": "DAZN LaLiga",
                         "channel_id": "538"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     },
                     {
                         "channel_name": "ESPN+ USA",
@@ -4474,6 +5066,10 @@
                         "channel_id": "539"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA 4",
                         "channel_id": "94"
                     }
@@ -4496,6 +5092,20 @@
                     {
                         "channel_name": "M4 Sports Hungary",
                         "channel_id": "265"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd English National League : Yeovil vs Forest Green",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
                     }
                 ]
             },
@@ -4644,6 +5254,10 @@
                         "channel_id": "559"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    },
+                    {
                         "channel_name": "Sportklub 3 Croatia",
                         "channel_id": "103"
                     }
@@ -4656,6 +5270,10 @@
                     {
                         "channel_name": "DAZN Belgium",
                         "channel_id": "155"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1245"
                     }
                 ]
             },
@@ -4668,6 +5286,10 @@
                         "channel_id": "116"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1246"
+                    },
+                    {
                         "channel_name": "Arena Sport 1x2 Serbia",
                         "channel_id": "612"
                     },
@@ -4678,12 +5300,36 @@
                 ]
             },
             {
+                "time": "19:00",
+                "event": "\u26bd Ecuador Liga Pro : T\u00e9cnico U vs Deportivo Cuenca",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1247"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : Tomayapo vs Nacional Potos\u00ed",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1248"
+                    }
+                ]
+            },
+            {
                 "time": "19:15",
                 "event": "\u26bd Poland - Ekstraklasa : Radomiak Radom \ud83c\uddf5\ud83c\uddf1 vs Wis\u0142a Krak\u00f3w \ud83c\uddf5\ud83c\uddf1",
                 "channels": [
                     {
                         "channel_name": "Canal+ Sport 3 Poland",
                         "channel_id": "259"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1250"
                     }
                 ]
             },
@@ -4694,6 +5340,10 @@
                     {
                         "channel_name": "Premiere BR",
                         "channel_id": "88"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1253"
                     },
                     {
                         "channel_name": "Viaplay Sports 2 UK",
@@ -4738,6 +5388,10 @@
                         "channel_id": "946"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1252"
+                    },
+                    {
                         "channel_name": "Sky Sport Top Event DE",
                         "channel_id": "556"
                     },
@@ -4778,6 +5432,10 @@
                     {
                         "channel_name": "SRF zwei",
                         "channel_id": "439"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1254"
                     }
                 ]
             },
@@ -4788,6 +5446,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1256"
                     },
                     {
                         "channel_name": "Sky Sport 251 IT",
@@ -4882,6 +5544,10 @@
                     {
                         "channel_name": "DAZN Belgium",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1261"
                     }
                 ]
             },
@@ -4892,6 +5558,10 @@
                     {
                         "channel_name": "DAZN Belgium",
                         "channel_id": "105"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1260"
                     }
                 ]
             },
@@ -4912,6 +5582,10 @@
                     {
                         "channel_name": "Ligue1+ 4 France",
                         "channel_id": "207"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1259"
                     },
                     {
                         "channel_name": "Eleven Sports 3 Poland",
@@ -4942,6 +5616,10 @@
                     {
                         "channel_name": "Ligue1+ 3 France",
                         "channel_id": "209"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1258"
                     },
                     {
                         "channel_name": "beIN SPORTS en Espa\u00f1ol",
@@ -4990,6 +5668,10 @@
                         "channel_id": "208"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1257"
+                    },
+                    {
                         "channel_name": "beIN SPORTS USA",
                         "channel_id": "425"
                     },
@@ -5024,6 +5706,10 @@
                         "channel_id": "212"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1255"
+                    },
+                    {
                         "channel_name": "Sport TV4 Portugal",
                         "channel_id": "289"
                     },
@@ -5044,6 +5730,10 @@
                     {
                         "channel_name": "Canal+ Foot France",
                         "channel_id": "463"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1267"
                     }
                 ]
             },
@@ -5054,6 +5744,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "379"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1266"
                     }
                 ]
             },
@@ -5064,6 +5758,10 @@
                     {
                         "channel_name": "ESPN 2 NL",
                         "channel_id": "386"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1265"
                     }
                 ]
             },
@@ -5074,6 +5772,10 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "388"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1268"
                     },
                     {
                         "channel_name": "FOX Deportes",
@@ -5092,6 +5794,10 @@
                     {
                         "channel_name": "Sky Sports Football UK",
                         "channel_id": "35"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1263"
                     },
                     {
                         "channel_name": "\u0160TV 1 Slovenia",
@@ -5122,6 +5828,10 @@
                     {
                         "channel_name": "M+ LALIGA TV",
                         "channel_id": "84"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1262"
                     },
                     {
                         "channel_name": "ESPN+ USA",
@@ -5218,6 +5928,10 @@
                         "channel_id": "539"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1269"
+                    },
+                    {
                         "channel_name": "beIN Sports 2 Malaysia",
                         "channel_id": "713"
                     },
@@ -5234,6 +5948,10 @@
                     {
                         "channel_name": "TSN3",
                         "channel_id": "113"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1264"
                     },
                     {
                         "channel_name": "TSN4",
@@ -7376,6 +8094,10 @@
                     {
                         "channel_name": "Cosmote Sport 7",
                         "channel_id": "628"
+                    },
+                    {
+                        "channel_name": "RTL+ DE",
+                        "channel_id": "1131"
                     }
                 ]
             },
@@ -7444,6 +8166,26 @@
                     {
                         "channel_name": "Sport TV5 Portugal",
                         "channel_id": "290"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "2001"
+                    },
+                    {
+                        "channel_name": "Backup Stream ESP",
+                        "channel_id": "2002"
+                    },
+                    {
+                        "channel_name": "Backup Stream PT",
+                        "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -7506,6 +8248,26 @@
                     {
                         "channel_name": "Sport 5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "2001"
+                    },
+                    {
+                        "channel_name": "Backup Stream ESP",
+                        "channel_id": "2002"
+                    },
+                    {
+                        "channel_name": "Backup Stream PT",
+                        "channel_id": "2003"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "5001"
                     }
                 ]
             }
@@ -8728,6 +9490,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "1109"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1271"
                     }
                 ]
             },
@@ -8738,6 +9504,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "1110"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1270"
                     }
                 ]
             },
@@ -8748,6 +9518,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "1111"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1272"
                     }
                 ]
             },
@@ -9760,6 +10534,10 @@
                     {
                         "channel_name": "Sport 5 Plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "2006"
                     }
                 ]
             },
@@ -10894,6 +11672,10 @@
                         "channel_id": "38"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1251"
+                    },
+                    {
                         "channel_name": "Sky Sports+",
                         "channel_id": "36"
                     },
@@ -11388,6 +12170,10 @@
                     {
                         "channel_name": "Arena Sport 4 Croatia",
                         "channel_id": "580"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "2004"
                     }
                 ]
             },
@@ -11434,6 +12220,10 @@
                     {
                         "channel_name": "Viasat Vinter",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Backup Stream ENG",
+                        "channel_id": "2005"
                     }
                 ]
             },
@@ -11684,6 +12474,10 @@
                     {
                         "channel_name": "TV4 Sport Live 2 Sweden",
                         "channel_id": "704"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1261"
                     }
                 ]
             },
@@ -11698,6 +12492,10 @@
                     {
                         "channel_name": "Sport 2 CZ",
                         "channel_id": "1035"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1262"
                     }
                 ]
             },
@@ -11708,6 +12506,10 @@
                     {
                         "channel_name": "TV4 Sport Live 3 Sweden",
                         "channel_id": "705"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1263"
                     }
                 ]
             },
@@ -12634,6 +13436,10 @@
                     {
                         "channel_name": "Sky Sport 3 NZ",
                         "channel_id": "590"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1208"
                     }
                 ]
             },
@@ -12644,6 +13450,10 @@
                     {
                         "channel_name": "ITV4 UK",
                         "channel_id": "353"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1271"
                     },
                     {
                         "channel_name": "Sky Sport 2 NZ",
@@ -12666,6 +13476,10 @@
                     {
                         "channel_name": "ITV 1 UK",
                         "channel_id": "350"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1272"
                     },
                     {
                         "channel_name": "Sky Sport 1 NZ",
@@ -12732,6 +13546,10 @@
                         "channel_id": "592"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1240"
+                    },
+                    {
                         "channel_name": "M+ Vamos 2 Spain",
                         "channel_id": "219"
                     }
@@ -12744,6 +13562,10 @@
                     {
                         "channel_name": "ITV4 UK",
                         "channel_id": "353"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1211"
                     },
                     {
                         "channel_name": "Sky Sport 3 NZ",
@@ -12770,6 +13592,10 @@
                     {
                         "channel_name": "ITV 1 UK",
                         "channel_id": "350"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1210"
                     },
                     {
                         "channel_name": "TF1 France",
